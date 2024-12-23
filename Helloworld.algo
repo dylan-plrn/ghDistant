@@ -9,8 +9,9 @@ Algo HelloWorld {
 		Créer la couleur jaune
 		Créer le couleur bleu
 		Créer la couleur vert
+		Crérr la couleur cyan
 		Mettre la couleur jaune sur le label                
-		Mettre le fond d'écran en vert
+		Mettre le fond d'écran en cyan
 		Mettre la couleur bleu sur le label
 		// Finalisation
 		Ajouter le lable sur la fenetre 
