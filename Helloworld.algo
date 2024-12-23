@@ -16,5 +16,6 @@ Algo HelloWorld {
 		Ajouter le lable sur la fenetre 
 		Afficher la fenêtre
 		// nouveau commentaire
+		// Commentaire en local
 	}
 }
