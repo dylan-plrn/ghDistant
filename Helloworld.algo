@@ -1,5 +1,7 @@
 Algo HelloWorld { 
 	fonction principale {
+		test
+		test2
 		// Création de la fenetre
 		Créer une fenetre de titre HELLO_WORLD_TITLE 
 		Mettre la dimension à 500, 500 
